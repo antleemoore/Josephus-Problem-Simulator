@@ -1,5 +1,3 @@
-/*COP 3502C Midterm Assignment Two
-This Program is writen by: Anthony Moore*/
 #include<stdio.h>
 #include<stdlib.h>
 
